@@ -1,9 +1,8 @@
 
+var btn1 = document.getElementById("btn");
 
-function start(){
+function btn1() {
 
-    alert('ff');
-    document.getElementById("b").remove();
+    action
 
-}    
-
+}
