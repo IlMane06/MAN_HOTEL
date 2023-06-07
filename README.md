@@ -8,8 +8,8 @@ Tutti i riferimenti, immagini e collegamenti del sito sono inseriti solo a scopo
 -stanze+costi
 -pasti
 -zona
--aggiungi freccia immagini
 
 
--AGGIUNGI SFONDO NERO E DARK-LIGHT MODE
 
+-aggiungi formattazione per tel
+-dark light mode

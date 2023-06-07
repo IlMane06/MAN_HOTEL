@@ -1,0 +1,86 @@
+div, body,p{
+
+    padding: 0%;
+    margin: 0%;
+  
+  }
+  
+  a{
+  
+    text-decoration: none;
+  }
+  
+  
+  #logo {
+      
+    position: fixed;
+  
+    width: 30%;
+    height: 20%;
+    
+    background-image: url(logo.png);
+    background-size: 85%;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+    transition: 1s;
+    
+  }
+  
+  #blackzone{
+  
+    position: fixed;
+  
+    width: 100%;
+    height: 20%;
+  
+    background-color: rgba(0, 0, 0, 0.811);
+    background-repeat: no-repeat;
+    background-position: center;
+  
+    top: 0;
+  
+    transition: 1s;
+  
+  }
+  
+  #home{
+  
+    position: fixed;
+  
+    width: 3%;
+    height: 20%;
+  
+    margin-left: 95%;
+  
+  
+    background-image: url(home.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+  
+    opacity: 1;
+  
+    transition: 1s;
+  
+  }
+
+  #imgstanze{
+
+    width: auto;
+    height: 80%;
+  
+    margin: 0;
+  
+    background-image: url(stanzeback.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  
+    padding-left: 10%;
+    padding-top: 10%;
+
+    transition: 2s;
+  
+  }
